@@ -24,7 +24,7 @@ T T F <br />
 T F X <br />
 F X X <br />
 
-	@Test <br/>
+	@Test 
     void multipleCondition() {    
 		RuntimeException ex;  
 
@@ -86,7 +86,7 @@ F X X <br />
 46 - 48  
 48 – 49  
 
-	@Test <br/>
+	@Test 
     void everyBranch() {  
         RuntimeException ex;  
 
